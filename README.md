@@ -1,2 +1,1 @@
-# Project-GoogleDA-Salifort-Motors
-Google Advanced Data Analytics capstone project on predicting churn in Salifort Motors.
+# Salifort Motors: HR Predictive Analysis with Binary Classification
